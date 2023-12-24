@@ -12,3 +12,12 @@ This shell script allows you to find the largest file in your pendrive. It also 
 
    ```bash
    chmod +x find_largest.sh
+
+3. **Run it to your drive path:**
+
+   ```bash
+   ./find_largest /your/drive/path
+
+4.and that should do it
+
+© hardikkum444
