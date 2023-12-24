@@ -20,4 +20,4 @@ This shell script allows you to find the largest file in your pendrive. It also 
 
 4.**And that should do it**
 
-© hardikkum444
+
