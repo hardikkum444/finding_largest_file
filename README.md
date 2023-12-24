@@ -18,6 +18,6 @@ This shell script allows you to find the largest file in your pendrive. It also 
    ```bash
    ./find_largest /your/drive/path
 
-4.and that should do it
+4.**And that should do it**
 
 © hardikkum444
