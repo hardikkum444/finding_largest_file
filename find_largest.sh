@@ -9,11 +9,11 @@ fi
 # Ensure the provided path is a directory
 pendrive_path="$1"
 if [ ! -d "$pendrive_path" ]; then
-    echo "Error: $pendrive_path is not a directory."
+    echo "Error: $pendrive_path ain't a directory."
     exit 1
 fi
 
-echo "Finding the largest files in $pendrive_path ..."
+echo "Doing your homework $pendrive_path ..."
 
 # Measure the time it takes to find the largest files
 start_time=$(date +%s.%N)
