@@ -25,3 +25,6 @@ echo -e "\nTop 10 largest files:"
 echo "$largest_files"
 echo -e "\nTime taken: $(echo "$end_time - $start_time" | bc) seconds"
 echo "Done."
+
+
+© hardikkum444
