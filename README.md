@@ -1,8 +1,14 @@
-# finding_largest_file
+# Finding Largest File
 
-* This shell script allows you to find the largest file in your pendrive <br>
-* It also gives you the time it took to do so
+This shell script allows you to find the largest file in your pendrive. It also provides the time it took to do so.
 
-* Save this file first (as .sh) then make it executable
+## Usage
 
-'chmod+x file_name.sh'
+1. **Save the Script:**
+   Save this script file with a .sh extension, for example, `find_largest.sh`.
+
+2. **Make it Executable:**
+   Open a terminal and navigate to the directory where the script is saved. Run the following command to make it executable:
+
+   ```bash
+   chmod +x find_largest.sh
